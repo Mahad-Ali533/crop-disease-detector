@@ -10,7 +10,7 @@ from pathlib import Path
 # 1.  Paths
 # ─────────────────────────────────────────────────────────────
 BASE_DIR   = Path(__file__).resolve().parent
-MODEL_PATH = BASE_DIR / "app" / "model" / "model.pt"   # <- keep model here
+MODEL_PATH = BASE_DIR / "model.pt"   # <- keep model here
 
 # ─────────────────────────────────────────────────────────────
 # 2.  Class list  (⚠️ Must match training time)
