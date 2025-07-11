@@ -1,5 +1,7 @@
-pytorch
+streamlit
+
+torch
+
 torchvision
-PIL
-shutil
-random
+
+pillow  
